@@ -1,0 +1,17 @@
+body{
+    background-color: green;
+}
+footer p{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: darkgray;
+}
+
+.carousel-item img{
+    height: 700px;
+}
+.image{
+    height: 50px;
+}
